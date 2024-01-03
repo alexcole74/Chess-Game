@@ -4,23 +4,21 @@ Fully functional two player chess game
 
 # Results
 
-The board
+### The board
 
 <img width="800" alt="Screenshot 2024-01-03 at 2 57 42 PM" src="https://github.com/alexcole74/Chess-Game/assets/154842337/52807597-af80-4515-a426-a36f9fe69a66">
 
-Gameplay
+### Gameplay
 
 <img width="800" alt="Screenshot 2024-01-03 at 2 59 47 PM" src="https://github.com/alexcole74/Chess-Game/assets/154842337/6089fbb8-f512-4c43-8bd9-3d2e99af0d50">
 
-End of Game
+### End of Game
 
 <img width="800" alt="Screenshot 2024-01-03 at 3 00 32 PM" src="https://github.com/alexcole74/Chess-Game/assets/154842337/67b5491a-90c4-4843-96ba-42f79ba89008">
 
-Stalemate
+### Stalemate
 
 <img width="800" alt="Screenshot 2024-01-03 at 3 05 40 PM" src="https://github.com/alexcole74/Chess-Game/assets/154842337/0e498171-2c6e-4889-ad79-0b6c9c802878">
-
-images
 
 # Setup
 
