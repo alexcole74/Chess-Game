@@ -867,12 +867,17 @@ class Run:
     """Class to run the program, run function should do everything"""
 
     def __init__(self):
-        print("Startig Game")
+        print("Starting Game")
 
     def run(self):
         """function to run the game"""
         try:
             while True:
+                global dead_black
+                global dead_white
+
+                dead_black = [[],[]]
+                dead_white = [[],[]]
                 chess = Game()
                 moveState = "None"
                 display.fill((200,200,200))
@@ -987,7 +992,6 @@ class Run:
                         break
                 if flag==0:
                     break
-
 
 
         except Exception as error:
